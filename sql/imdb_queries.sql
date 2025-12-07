@@ -46,7 +46,6 @@ FROM movies
 GROUP BY certificate
 ORDER BY certificate;
 
-
 # Find whether short (<90m), medium (90–120m), or long (>120m) movies get higher ratings.
 SELECT
 	CASE
@@ -65,12 +64,3 @@ SELECT title, director, genre, release_year, rating
 FROM movies
 ORDER BY rating DESC
 LIMIT 20;
-
-# Find the metascore distribution (how many movies have each metascore).
-SELECT 
-    metascore,
-    COUNT(*) AS count_movies
-FROM movies
-WHERE metascore IS NOT NULL
-GROUP BY metascore
-ORDER BY metascore;
