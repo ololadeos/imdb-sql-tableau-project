@@ -49,4 +49,11 @@ The story contains 5 dashboards:
 - Movie production has increased over time while average ratings stayed relatively stable. There was a significan dip in the number of movies released in 2020 (COVID).
 - Documentaries have the highest average rating and metascore across genres. 
 - Long movies (>120 minutes) minutes tend to achieve the best ratings on average.
-- R rated movies were the most released over the time period but G rated movies have the highest average rating. 
+- R rated movies were the most released over the time period but G rated movies have the highest average rating.
+  <img width="905" height="725" alt="Movie Trends" src="https://github.com/user-attachments/assets/8ea73b11-5a11-416a-a8dc-73de7b884d8b" />
+  <img width="905" height="725" alt="Director Analysis" src="https://github.com/user-attachments/assets/a11b89a2-8588-4a5b-b36f-18c080e4101f" />
+  <img width="905" height="727" alt="Genre analysis" src="https://github.com/user-attachments/assets/8f59e9e0-18d0-4d80-bf3a-acaf0a3800a0" />
+<img width="906" height="727" alt="Movie Certificate Analysis" src="https://github.com/user-attachments/assets/62cab724-9b51-46d8-bad2-5c1cf732152c" />
+
+
+
