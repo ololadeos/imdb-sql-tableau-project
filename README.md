@@ -35,7 +35,7 @@ All SQL queries used to generate the analysis datasets are in: sql/imdb_queries.
 ## Dashboards (Tableau)
 You can explore the interactive Tableau Story here:
 
-[IMDB Tableau Dashboard]([URL GOES HERE](https://public.tableau.com/views/IMDBMovieDataAnalysis_17650716238700/IMDBMoviesDataset?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[IMDB Tableau Dashboard](https://public.tableau.com/views/IMDBMovieDataAnalysis_17650716238700/IMDBMoviesDataset?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
  
 
 The story contains 5 dashboards:
